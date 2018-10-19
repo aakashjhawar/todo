@@ -163,6 +163,15 @@ body {
 		::-webkit-input-placeholder { color: $dark; }
 	}
 }
+.footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 1.5%;
+    color: white;
+    text-align: center;
+	}	
 
 .links {
 	display: block;
