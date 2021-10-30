@@ -24,4 +24,4 @@ Things you may want to cover:
 * ...
  -->
  
- A ToDo Web App built using RoR.
+ A ToDo Web App built using Ruby on Rails.
